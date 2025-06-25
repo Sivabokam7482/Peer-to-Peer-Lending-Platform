@@ -40,7 +40,7 @@ This project implements a robust **MySQL-only** backend database for a Peer-to-P
 2. Open a MySQL client (e.g., MySQL CLI or Workbench).
 3. Run the SQL file:
    ```sql
-   SOURCE PeerToPeerLending.sql;
+   SOURCE Lending platform.sql;
    ```
 4. The database `lending` will be created with sample data, procedures, triggers, and queries.
 
